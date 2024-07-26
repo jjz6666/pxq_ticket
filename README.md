@@ -1,4 +1,4 @@
-# pxq_ticket(此版有盾)
+# pxq_ticket
 
 ## 简介
 
